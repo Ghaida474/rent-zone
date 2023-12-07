@@ -31,3 +31,26 @@ Ensure that the database name matches the name you created in phpMyAdmin (rentzo
 Run the Project
 Open a web browser and navigate to http://localhost/rentzone (assuming 'rentzone' is the directory name of your project).
 You should now see the "Rent Zone" homepage and be able to interact with the application.
+# Accounts :
+
+Homeowner: 
+
+Email:
+maha@gmail.com
+Pass:
+Maha123
+
+
+Homeseeker:
+
+1-
+Email:
+munira@live.com
+Pass:
+Munira_123
+
+2-
+email:
+Sara@gmail.com
+Pass:
+Sara_123
